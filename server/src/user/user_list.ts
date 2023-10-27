@@ -2,33 +2,33 @@ import { IUser } from './interfaces/user.interface';
 
 const user_list: Array<IUser> = [
   {
-    "email": "jim@gmail.com",
-    "number": 221122
+    email: 'jim@gmail.com',
+    number: 221122,
   },
   {
-    "email": "jam@gmail.com",
-    "number": 830347
+    email: 'jam@gmail.com',
+    number: 830347,
   },
   {
-    "email": "john@gmail.com",
-    "number": 221122
+    email: 'john@gmail.com',
+    number: 221122,
   },
   {
-    "email": "jams@gmail.com",
-    "number": 349425
+    email: 'jams@gmail.com',
+    number: 349425,
   },
   {
-    "email": "jams@gmail.com",
-    "number": 141424
+    email: 'jams@gmail.com',
+    number: 141424,
   },
   {
-    "email": "jill@gmail.com",
-    "number": 822287
+    email: 'jill@gmail.com',
+    number: 822287,
   },
   {
-    "email": "jill@gmail.com",
-    "number": 822286
-  }
-]
+    email: 'jill@gmail.com',
+    number: 822286,
+  },
+];
 
-export default user_list
+export default user_list;
