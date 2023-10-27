@@ -1,5 +1,9 @@
 # vue-nest-docker-template
 
+## Предварительные требования
+
+### Установите docker и docker compose
+
 ## Запуск 
 
 ```bash
